@@ -1,13 +1,13 @@
 # <a href="https://beacons.ai/eriknathan_">Erik Nathan</a>
  
  ```sh# Site (não oficial) da Coca-Cola
-  Site (não oficial) da Coca-Cola feito por um Tutorial do YouTube!
+  Site (não oficial) da Pepis feito por um Tutorial do YouTube!
 ```
  
 ## Sobre o repositório
-Este é um projeto de uma página inicial da Coca-Cola (não oficial) feito de acordo com o tutorial no YouTube do Canal Online Tutorials
+Este é um projeto de uma página inicial da Pepsi (não oficial) feito de acordo com o tutorial no YouTube do Canal Online Tutorials
 
-##  Tutorial - Site do Starbucks
+##  Tutorial - Site da Pepsi
 <code><img height="50" src="https://seeklogo.com/images/Y/youtube-logo-FF3BEE4378-seeklogo.com.png"><a href="https://www.youtube.com/watch?v=j0wCewl87ec">Link do YouTube</a></code>
 
 ## Technologies
