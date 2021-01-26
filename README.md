@@ -1,2 +1,2 @@
 # pepsi-site
- Site (não oficial) da Pepsi, baseado no tutorial do Canal Online Tutorials
+ Site (não oficial) da Pepsi - Erik Nathan
